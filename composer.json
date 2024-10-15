@@ -17,7 +17,7 @@
     "require": {
         "php": "^8.2",
         "illuminate/support": "^10.0|^11.0",
-        "infyomlabs/laravel-generator-helpers": "dev-develop",
+        "infyomlabs/laravel-generator-helpers": "dev-Laravel-11-upgrade",
         "laravel/ui": "^4.2"
     },
     "autoload": {
